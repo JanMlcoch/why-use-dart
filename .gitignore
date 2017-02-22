@@ -8,6 +8,12 @@
 build/
 **/packages/
 
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
 # Files created by dart2js
 # (Most Dart developers will use pub build to compile Dart, use/modify these 
 #  rules if you intend to use dart2js directly
